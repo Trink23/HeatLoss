@@ -1,0 +1,9 @@
+C:\OneDrive\Documents\Autocad\HeatLoss\HeatLoss\bin\Debug\HeatLoss.dll
+C:\OneDrive\Documents\Autocad\HeatLoss\HeatLoss\bin\Debug\HeatLoss.pdb
+C:\OneDrive\Documents\Autocad\HeatLoss\HeatLoss\obj\Debug\HeatLoss.csprojAssemblyReference.cache
+C:\OneDrive\Documents\Autocad\HeatLoss\HeatLoss\obj\Debug\HeatLoss.AddRoom.resources
+C:\OneDrive\Documents\Autocad\HeatLoss\HeatLoss\obj\Debug\HeatLoss.UserInterface.resources
+C:\OneDrive\Documents\Autocad\HeatLoss\HeatLoss\obj\Debug\HeatLoss.csproj.GenerateResource.cache
+C:\OneDrive\Documents\Autocad\HeatLoss\HeatLoss\obj\Debug\HeatLoss.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\Autocad\HeatLoss\HeatLoss\obj\Debug\HeatLoss.dll
+C:\OneDrive\Documents\Autocad\HeatLoss\HeatLoss\obj\Debug\HeatLoss.pdb
